@@ -1,3 +1,3 @@
-Spring4 + Spring Data + JPA + Gradle Rest API Sample 
+Spring4 + Spring Data + JPA + Gradle Restful API Sample 
 =====================
 
