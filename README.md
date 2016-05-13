@@ -1,5 +1,6 @@
 Spring4 + Spring Data + JPA + Gradle Restful API Sample 
 =====================
+This is Restful API Sample by Spring, JPA, Gradle for Beginners.
 
 ##Development Environment
 * Macbook Pro Retina
